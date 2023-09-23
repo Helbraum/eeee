@@ -1,0 +1,27 @@
+.border{
+
+border: 10px rgb(235, 101, 123) dotted;
+background-image: linear-gradient(to right, rgba(231, 57, 57, 0), rgb(223, 122, 161));
+padding: 50px;
+
+}
+body{
+    background-image:url("https://i.redd.it/vp0coxlxsuu31.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: center;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-family: "Papyrus";
+    font-size: 50px;
+    line-height: 3em;
+    text-decoration: line-through;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
