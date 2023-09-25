@@ -1,0 +1,25 @@
+body {
+    background-color: cyan;
+  }
+h1 {
+    text-align: center;
+    color: blue
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-weight: bold;
+}
+.rates{
+    font-family: 'Courier New', Courier, monospace;
+}
+.silver{
+    color:hsl(0, 0%, 75%)
+}
+.fuchsia{
+    color:#FF00FF
+}
+.brightorage{
+    color:rgb(255, 165, 0)
+}
